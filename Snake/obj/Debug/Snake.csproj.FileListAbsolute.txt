@@ -1,0 +1,10 @@
+D:\C#代码\Snake\bin\Debug\Snake.exe.config
+D:\C#代码\Snake\bin\Debug\Snake.exe
+D:\C#代码\Snake\bin\Debug\Snake.pdb
+D:\C#代码\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\C#代码\Snake\obj\Debug\Snake.Form1.resources
+D:\C#代码\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\C#代码\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\C#代码\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\C#代码\Snake\obj\Debug\Snake.exe
+D:\C#代码\Snake\obj\Debug\Snake.pdb
